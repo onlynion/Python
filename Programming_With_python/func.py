@@ -6,6 +6,7 @@ n = int(n)
 
 m = input()
 m = int(m)
+
 result = add(n,m)
 
 print(result)
